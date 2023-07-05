@@ -37,6 +37,7 @@ We experimented with multiple machine learning algorithms, including Support Vec
 
 To make our heart disease prediction model accessible and user-friendly, we developed a web application using Streamlit, a Python library for creating interactive web interfaces. The web application allows users to input their relevant health information and obtain a prediction of their risk of heart disease. The application provides clear and interpretable results, empowering individuals to take proactive steps towards their cardiovascular health.
 
+Web app Link : Web app link: https://heartdiseaseprediction-odm3nbbq95i.streamlit.app/
 ## Dependencies
 
 - Python 3.7 or higher
