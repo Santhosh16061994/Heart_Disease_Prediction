@@ -15,7 +15,7 @@ This project focuses on developing a machine learning model for predicting the r
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
@@ -61,6 +61,4 @@ Web app Link : Web app link: https://heartdiseaseprediction-odm3nbbq95i.streamli
 
 We welcome contributions to enhance the project and expand its functionality. If you encounter any issues or have suggestions for improvements, please submit a pull request or open an issue in the GitHub repository.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for your purposes.
