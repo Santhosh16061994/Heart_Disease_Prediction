@@ -1,5 +1,3 @@
-Sure! Here's an example of a GitHub README file description summary for the "Heart Disease Prediction using Machine Learning" project:
-
 # Heart Disease Prediction using Machine Learning
 
 This project focuses on developing a machine learning model for predicting the risk of heart disease based on patient data. By leveraging various machine learning algorithms and techniques, we aim to contribute to early diagnosis and proactive cardiac healthcare.
